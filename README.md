@@ -1,3 +1,14 @@
 # Snake
- Classic Snake Game on Terminal
- Simple snake game in C++ with ncurses
+
+Simple snake game written in C++ with ncurses.
+
+You can run it easily using
+
+```
+make
+```
+Then do
+```
+./snake
+```
+
